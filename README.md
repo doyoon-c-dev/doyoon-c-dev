@@ -1,4 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Doyoon
+
+Backend Developer in progress  
+Building services that have a positive impact on people's lives
+
+### 🛠 Tech Stack
+- Frontend: React, TypeScript
+- Backend: (Learning) Java / Spring
+- AI: TensorFlow, PyTorch
+
+### 📌 Projects
+- Ingredient-Based Recipe Recommendation AI
+- Traffic Light Recognition AI
+- mood-energy-tracker
+
+### 📫 Contact
+- Email: doyoon.dev@gmail.com
 
 <!--
 **doyoon-c-dev/doyoon-c-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
