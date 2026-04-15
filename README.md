@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Doyoon
 
-Backend Developer in progress  
+Fullstack Developer in progress  
 Building services that have a positive impact on people's lives
 
 ### 🛠 Tech Stack
@@ -9,7 +9,7 @@ Building services that have a positive impact on people's lives
 - AI: TensorFlow, PyTorch
 
 ### 📌 Projects
-- Ingredient-Based Recipe Recommendation AI
+- Ingredient-Based Recipe Recommendation
 - Traffic Light Recognition AI
 - mood-energy-tracker
 
