@@ -5,7 +5,7 @@ Building services that have a positive impact on people's lives
 
 ### 🛠 Tech Stack
 - Frontend: React, TypeScript, HTML, JavaScript
-- Backend: (Learning) Java / Spring
+- Backend: (Learning) Java / Spring, Flask
 - AI: TensorFlow, PyTorch
 
 ### 📌 Projects
