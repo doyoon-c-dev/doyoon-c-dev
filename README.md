@@ -4,7 +4,7 @@ Fullstack Developer in progress
 Building services that have a positive impact on people's lives
 
 ### 🛠 Tech Stack
-- Frontend: React, TypeScript
+- Frontend: React, TypeScript, HTML, JavaScript
 - Backend: (Learning) Java / Spring
 - AI: TensorFlow, PyTorch
 
